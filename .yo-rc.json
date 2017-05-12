@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "dotcli",
+      "authorEmail": "lcb931023@gmail.com",
+      "authorUrl": "https://changbai.li"
+    }
+  }
+}
