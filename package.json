@@ -1,5 +1,5 @@
 {
-  "name": "@dotcli/generator-av",
+  "name": "generator-av",
   "version": "1.0.0",
   "description": "generator for webgl + audio experiments",
   "homepage": "",
