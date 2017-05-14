@@ -2,10 +2,16 @@ generator-av
 ========
 Yeoman generator for `(audio || visual)` experiments on the web.
 
-# Features
+# Visual lib
+- three.js
+# Audio lib
+- tone.js
+
+# Other Features
 - budo dev server
 - default index.html page
+- babel (ES2015)
+- browserify for bundling
+- surge.sh publishing
 - npm automation script
-- babel + browserify for bundling
 - gitignores
-- prompt options for visual and audio libs
