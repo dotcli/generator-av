@@ -1,7 +1,4 @@
-// TODO add more boiletplate (e.g. dat.gui control)
-
 const randomColor = require('randomcolor');
-
 <% if(visualLib === 'three') {%>
 global.THREE = require('three');
 const TWEEN = require('tween.js');
