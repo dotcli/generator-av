@@ -1,6 +1,6 @@
 {
-  "name": "generator-dotcli",
-  "version": "0.1.0",
+  "name": "@dotcli/generator-av",
+  "version": "1.0.0",
   "description": "generator for webgl + audio experiments",
   "homepage": "",
   "author": {
@@ -49,6 +49,6 @@
       "node": true
     }
   },
-  "repository": "dotcli/generator-dotcli",
+  "repository": "dotcli/generator-av",
   "license": "MIT"
 }

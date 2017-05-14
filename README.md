@@ -1,8 +1,11 @@
-generator-dotcli
+generator-av
 ========
-- budo server setup
+Yeoman generator for `(audio || visual)` experiments on the web.
+
+# Features
+- budo dev server
 - default index.html page
 - npm automation script
 - babel + browserify for bundling
 - gitignores
-- prompt to install visual and audio libs
+- prompt options for visual and audio libs
