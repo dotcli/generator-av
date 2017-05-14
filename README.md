@@ -4,6 +4,7 @@ Yeoman generator for `(audio || visual)` experiments on the web.
 
 # Visual lib
 - three.js
+
 # Audio lib
 - tone.js
 
