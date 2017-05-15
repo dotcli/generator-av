@@ -1,6 +1,6 @@
 {
   "name": "generator-av",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "generator for webgl + audio experiments",
   "homepage": "",
   "author": {
