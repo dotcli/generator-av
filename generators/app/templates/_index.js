@@ -9,7 +9,7 @@ var app = createOrbitViewer({
   clearColor: 0x000000,
   clearAlpha: 1,
   fov: 65,
-  position: new THREE.Vector3(0, 0, 50), // camera
+  position: new THREE.Vector3(0, 0, 1), // camera
 })
 
 app.on('tick', function(dt) {
