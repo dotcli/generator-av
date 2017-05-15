@@ -24,6 +24,7 @@
     "uglify-js": "^2"
   },
   "dependencies": {
-    "randomcolor": ""
+    "randomcolor": "",
+    "randf": ""
   }
 }
