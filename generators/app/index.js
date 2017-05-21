@@ -82,6 +82,13 @@ module.exports = class extends Generator {
       this.templatePath('_style.css'),
       this.destinationPath('style.css')
     );
+    this.fs.copyTpl(
+      this.templatePath('_README.md'),
+      this.destinationPath('README.md'),
+      Object.assign(this.props, {
+        author: this.user.git.name()
+      })
+    );
   }
 
   installVisual() {
